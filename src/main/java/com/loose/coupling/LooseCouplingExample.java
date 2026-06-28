@@ -1,4 +1,4 @@
-package com.loose.coupling.coupling;
+package com.loose.coupling;
 
 // A - MySQL , PostGreSQL
 // B - Web Service , MongoDB
